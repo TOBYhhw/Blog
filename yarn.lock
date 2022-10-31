@@ -1744,11 +1744,11 @@ hexo-generator-sitemap@^2.1.0:
     micromatch "^4.0.2"
     nunjucks "^3.1.6"
 
-hexo-generator-tag@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npm.taobao.org/hexo-generator-tag/download/hexo-generator-tag-1.0.0.tgz"
+hexo-generator-tag@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-generator-tag/-/hexo-generator-tag-2.0.0.tgz#f5a18c92b2f28063a76008b4090a7cea81fbbcc0"
   dependencies:
-    hexo-pagination "1.0.0"
+    hexo-pagination "3.0.0"
 
 hexo-helper-qrcode@^1.0.2:
   version "1.0.2"
@@ -1796,6 +1796,10 @@ hexo-log@^3.0.0, hexo-log@^3.2.0:
 hexo-pagination@1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/hexo-pagination/download/hexo-pagination-1.0.0.tgz"
+
+hexo-pagination@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-pagination/-/hexo-pagination-3.0.0.tgz#b98b050bbddff25ae646e3d00ad607ac6ae77ea7"
 
 hexo-permalink-pinyin@^1.1.0:
   version "1.1.0"
