@@ -1687,11 +1687,11 @@ hexo-fs@^3.0.1, hexo-fs@^3.1.0:
     graceful-fs "^4.1.11"
     hexo-util "^2.0.0"
 
-hexo-generator-archive@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npm.taobao.org/hexo-generator-archive/download/hexo-generator-archive-1.0.0.tgz"
+hexo-generator-archive@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-generator-archive/-/hexo-generator-archive-2.0.0.tgz#bd93f17848843bb5bface81103d81f5be1a8b2c9"
   dependencies:
-    hexo-pagination "1.0.0"
+    hexo-pagination "3.0.0"
 
 hexo-generator-baidu-sitemap@^0.1.9:
   version "0.1.9"
@@ -1796,6 +1796,10 @@ hexo-log@^3.0.0, hexo-log@^3.2.0:
 hexo-pagination@1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/hexo-pagination/download/hexo-pagination-1.0.0.tgz"
+
+hexo-pagination@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-pagination/-/hexo-pagination-3.0.0.tgz#b98b050bbddff25ae646e3d00ad607ac6ae77ea7"
 
 hexo-permalink-pinyin@^1.1.0:
   version "1.1.0"
